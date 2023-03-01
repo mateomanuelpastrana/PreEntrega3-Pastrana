@@ -1,0 +1,37 @@
+/* color */
+.navbar-brand {
+  font-size: 60px;
+  font-weight: bold; }
+
+.nav-item {
+  font-size: 40px; }
+
+.display-4 {
+  font-weight: bold; }
+
+.footerdark {
+  color: white; }
+
+.gradient-custom-3 {
+  background: #84fab0;
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+  background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5)); }
+
+.gradient-custom-4 {
+  background: #84fab0;
+  background: -webkit-linear-gradient(to right, #84fab0, #8fd3f4);
+  background: linear-gradient(to right, #84fab0, #8fd3f4); }
+
+.lead {
+  font-weight: bold; }
+
+.primercuerpo h1 {
+  font-size: 50px;
+  text-decoration: solid;
+  color: darkgreen; }
+  .primercuerpo h1 p {
+    font-size: 20px;
+    color: darkgreen; }
+
+.tercercuerpo .row {
+  text-align: center; }
